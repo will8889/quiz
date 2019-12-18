@@ -1,0 +1,11 @@
+ID,Name,Position,Salary
+S0001,Garry,Staff,4500000
+S0122,James,Staff,5000000
+S4234,Judith,Manager,10700000
+S5133,Yuli,Officer,8500000
+S5125,Judi,Staff,5000000
+S5326,Ayam,Staff,4500000
+S7547,Boi,Officer,9000000
+S8978,Budi,Manager,1050000
+S3749,Bima,Staff,6000000
+S3209,Andi,Officer,8900000
